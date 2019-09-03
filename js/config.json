@@ -1,0 +1,32 @@
+{
+	"days": [{
+		"day": "2",
+		"programacion": [{
+				"inicio": "1:00",
+				"fin": "5:59",
+				"programa": "Ninguno"
+			},
+			{
+				"inicio": "6:00",
+				"fin": "6:59",
+				"programa": "Despierta Bolivia"
+			},
+			{
+				"inicio": "7:00",
+				"fin": "11:59",
+				"programa": "Mañanero"
+			},
+			{
+				"inicio": "12:00",
+				"fin": "15:59",
+				"programa": "Noticiero"
+			},
+			{
+				"inicio": "16:00",
+				"fin": "16:59",
+				"programa": "Tardes felices"
+			}
+		]
+	}]
+
+}
